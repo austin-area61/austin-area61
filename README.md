@@ -4,6 +4,7 @@
 - 📫 How to reach me +254714404256, austinonyango.area61@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Anyone can code!
+- Let's connect🤝
 
 <!---
 austin-area61/austin-area61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
