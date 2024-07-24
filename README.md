@@ -9,6 +9,7 @@
 alt
 
 - 👋 Hola, soy Austin
+  
 -👀 Estoy interesado en construir soluciones tecnológicas a través de la programación.
 - 🌱 Actualmente estoy aprendiendo Javascript y Python.
 - 📫 Cómo contactarme: austinonyango.area61@gmail.com
