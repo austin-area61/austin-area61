@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Austin
 - 👀 I’m interested in building tech solutions through coding.
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 I’m currently learning TypeScript and Python
 - 📫 How to reach me: austinonyango.area61@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Anyone can code!
